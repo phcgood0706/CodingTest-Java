@@ -16,6 +16,6 @@ public class testt {
 		}
 		
 		System.out.println(sb.toString());
-		System.out.println(Arrays.toString(arr));
+		System.out.println(Arrays.toString(arr ));
 	}
 }
